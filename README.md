@@ -20,7 +20,7 @@ Tutelar are risk management experts. Our high powered tech-enabled solutions sim
 
 In the ```dependencies:``` section of your ```pubspec.yaml```, add the following line.
 ```
-tutelarfluttersdk 0.0.6
+tutelarfluttersdk 1.0.1
 ```
 
 #### Step 2 - Initialize SDK

@@ -188,10 +188,10 @@ packages:
     dependency: "direct main"
     description:
       name: tutelarfluttersdk
-      sha256: b87c888c219ea438c378a2002c7febfd959e2438cab6dfb82e8e6a06a0773341
+      sha256: "1e68938f60d14bd571a26d5b7bde7441c36ce961d6433b6ef1698f684cd903f7"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.6"
+    version: "1.0.1"
   vector_math:
     dependency: transitive
     description:
